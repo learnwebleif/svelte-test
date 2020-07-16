@@ -10,7 +10,6 @@
 </script>
 
 <main>
-  
   <h2>The date according to Node.js is:</h2>
   <p>{date ? date : 'Loading date...'}</p>
 </main>
